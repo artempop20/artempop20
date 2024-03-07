@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Artem_Y_Popov
 [instagram]: https://www.instagram.com/_popov_artem_
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/artem-popov-84aa14284/
